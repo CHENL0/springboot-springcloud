@@ -1,3 +1,4 @@
+com\spring\cloud\zuul\filter\RequestFilter.class
 com\spring\cloud\zuul\ZuulApplication.class
 com\spring\cloud\zuul\fallback\WebAdminFeignFallbackProvider$1.class
 com\spring\cloud\zuul\fallback\WebAdminFeignFallbackProvider.class
